@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.pedrosilva.workshopmongo.DTO.UserDTO;
 import com.pedrosilva.workshopmongo.domain.User;
+import com.pedrosilva.workshopmongo.dto.UserDTO;
 import com.pedrosilva.workshopmongo.repository.UserRepository;
 import com.pedrosilva.workshopmongo.services.exception.ObjectNotFoundException;
 
