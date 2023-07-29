@@ -1,6 +1,6 @@
 # workshop-spring-boot-mongodb
 
-Neste projeto Java, estamos explorando o uso do MongoDB com o Spring Boot. O MongoDB é um banco de dados orientado a documentos, enquanto o Spring Boot é um framework Java popular.
+Neste projeto Java, explorei o uso do MongoDB com o Spring Boot. O MongoDB é um banco de dados orientado a documentos, enquanto o Spring Boot é um framework Java popular.
 
 ![alt text](img/uml.png)
 
